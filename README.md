@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Evan! My previous experience mainly consists of full-stack web development. I'm currently learning game programming in Unity with C# and having a fun time with it.  My journey in programming has always been driven by curiosity and exploration. As I continue on this journey, I hope to always be learning and growing as a developer.
+Hi, I'm Evan! I'm a student at Northeastern University with previous experience that mainly consists of full-stack web development. I'm currently learning game programming in Unity with C# and having a fun time with it.  My journey in programming has always been driven by curiosity and exploration. As I continue on this journey, I hope to always be learning and growing as a developer :)
 
 
 ## 🌐 Socials:
